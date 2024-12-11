@@ -1,0 +1,9 @@
+h1, label, ul, button, li, ::placeholder, :placeholder-shown{
+    font-style: italic;
+}
+input, button{
+    margin-top: 10px;
+}
+h1{
+    background-color: rgb(97, 218, 251);
+}
